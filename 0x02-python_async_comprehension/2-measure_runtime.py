@@ -2,7 +2,7 @@
 """Task 2"""
 import asyncio
 import time
-import importlib import import_module as imp
+from importlib import import_module as imp
 
 
 async_comprehension = imp('1-async_comprehension').async_comprehension
